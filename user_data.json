@@ -1,0 +1,29 @@
+{
+  "user_data": {
+    "5330539811": {
+      "step": "completed",
+      "type": "olish",
+      "timestamp": "2025-09-02T10:19:02.568372",
+      "name": "Djs",
+      "group": "Njs",
+      "phone": "998942007068",
+      "passport_photo": "AgACAgIAAxkBAAMqaLZ0pCozDINd5dahFgrnvSdtbPUAAsz1MRtxubhJft1seh0bDUsBAAMCAAN5AAM2BA",
+      "login": "Wis",
+      "password": "Js"
+    }
+  },
+  "approved_requests": {
+    "5330539811_1756789977": {
+      "user_id": "5330539811",
+      "admin_id": 1077804816,
+      "admin_name": "Azizbek",
+      "timestamp": "2025-09-02T10:13:44.652650"
+    },
+    "5330539811_1756790352": {
+      "user_id": "5330539811",
+      "admin_id": 1336425233,
+      "admin_name": "Oʻchirilgan hisob",
+      "timestamp": "2025-09-02T10:19:24.577083"
+    }
+  }
+}
